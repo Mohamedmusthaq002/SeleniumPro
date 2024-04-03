@@ -9,8 +9,7 @@ public class Sample {
 
 		System.out.println("Anu Completed his Work");
 		
-
-		
+		System.out.println("Sam Completed his Work");
 		
 		
 	}
